@@ -7,4 +7,9 @@ assignees: ''
 
 ---
 
+## description
+설명을 작성해주세요.
 
+## To do
+- [ ] 할 일1
+- [ ] 할 일2
