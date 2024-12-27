@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-## description
-설명을 작성해주세요.
+## ⚠️ Issue
+이슈 개요를 작성해주세요.
 
-## To do
+## ✅ To do
 - [ ] 할 일1
 - [ ] 할 일2
