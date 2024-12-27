@@ -1,14 +1,5 @@
 ---
 name: 테스트
-about: 테스트 작성
-title: "[test]"
-labels: ''
-assignees: ''
-
----
-
----
-name: 테스트
 about: '테스트 작성'
 title: "[test]"
 labels: '테스트'
