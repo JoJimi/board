@@ -1,14 +1,5 @@
 ---
 name: 버그 수정
-about: 버그 수정 및 설명
-title: "[fix]"
-labels: ''
-assignees: ''
-
----
-
----
-name: 버그 수정
 about: '버그 수정 및 설명 '
 title: "[fix]"
 labels: '버그수정'
